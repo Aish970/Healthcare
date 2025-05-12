@@ -63,12 +63,7 @@ The goal is to provide a repeatable, interpretable, and data-driven method to ra
 
 ---
 
-## 🚀 Potential Applications
 
-- Lead qualification in marketing and sales
-- Resume ranking in HR systems
-- Grant or proposal scoring
-- Real estate investment ranking
 
 ---
 
@@ -84,4 +79,4 @@ The goal is to provide a repeatable, interpretable, and data-driven method to ra
 
 For inquiries, improvements, or collaboration:
 - GitHub: [Aish970](https://github.com/Aish970)
-- Email: (Add your email here)
+
